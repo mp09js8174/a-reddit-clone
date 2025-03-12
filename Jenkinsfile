@@ -91,7 +91,6 @@ pipeline {
                to: 'rakeshsharma13090@gmail.com',                              
                attachmentsPattern: 'trivyfs.txt,trivyimage.txt'
         }
-	    
-    }
-
+    }	    
+  }
 }
